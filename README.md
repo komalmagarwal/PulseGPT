@@ -1,5 +1,5 @@
 # PulseGPT
-A 125M parameter GPT-style language model trained from scratch on PubMed medical abstracts.
+A 125M parameter GPT-style language model trained from scratch on 85M tokens of PubMed research, capable of generating coherent clinical text
 
 ## What it does
 - Medical Q&A
