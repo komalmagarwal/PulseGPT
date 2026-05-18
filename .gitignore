@@ -1,12 +1,7 @@
-.DS_Store
-.idea
-.ipynb_checkpoints/
-.vscode
-__pycache__/
+data/
+out-medical/
 *.bin
-*.pkl
 *.pt
+__pycache__/
 *.pyc
-input.txt
-env/
-venv/
+.DS_Store
